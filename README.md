@@ -1,4 +1,4 @@
-# nvim-lspconfig
+记得记得就# nvim-lspconfig
 
 nvim-lspconfig is a "data only" repo, providing basic, default [Nvim LSP client](https://neovim.io/doc/user/lsp.html)
 configurations for various LSP servers.
